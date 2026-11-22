@@ -1,0 +1,8 @@
+/Profil/
+/Cards/
+/dist/
+/Gwent.exe
+*.user
+*.pdb
+Thumbs.db
+Desktop.ini
